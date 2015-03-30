@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 FINAL_WIDTH=500
 
 # You need imagemagick to run this.
